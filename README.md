@@ -1,2 +1,4 @@
 # Demo
-Create a First Git Repository 
+This is a My First Git Repository 
+Author - Sushant Punekar
+
